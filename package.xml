@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>Kodecrm_Feed</name>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <stability>stable</stability>
     <license uri="http://www.opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
     <channel>community</channel>
@@ -10,9 +10,9 @@
     <description>This package will create feed required for Kodecrm (www.kodecrm.com).</description>
     <notes>This is the first version of this module. If you found any bugs, then write to us at jimit@kodeplay.com</notes>
     <authors><author><name>Kodeplay</name><user>kodeplay</user><email>info@kodeplay.com</email></author></authors>
-    <date>2012-08-29</date>
-    <time>11:02:20</time>
-    <contents><target name="magelib"><dir name="Kodecrm"><dir name="Feed"><file name="lib.php" hash="cede774dfc3f5aa2ee96fa023078e7dc"/></dir></dir></target><target name="magecommunity"><dir name="Kodecrm"><dir name="Feed"><dir name="Helper"><file name="Data.php" hash="483dd6193b345145bba6131ee1830e72"/></dir><dir name="controllers"><file name="IndexController.php" hash="dec989db1505bf2648649474c6c01962"/></dir><dir name="etc"><file name="config.xml" hash="28ddf789afd530af2a25f353da36b157"/><file name="system.xml" hash="2bc8f10143f207e0e0653385ea97d288"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Kodecrm_all.xml" hash="095e4281dc0000e388213a1bce27634f"/></dir></target></contents>
+    <date>2012-09-12</date>
+    <time>11:40:28</time>
+    <contents><target name="magelib"><dir name="Kodecrm"><dir name="Feed"><file name="lib.php" hash="cede774dfc3f5aa2ee96fa023078e7dc"/></dir></dir></target><target name="magecommunity"><dir name="Kodecrm"><dir name="Feed"><dir name="Helper"><file name="Data.php" hash="483dd6193b345145bba6131ee1830e72"/></dir><dir name="controllers"><file name="IndexController.php" hash="1d96331eb2a94d30749eb2775443dda5"/></dir><dir name="etc"><file name="config.xml" hash="28ddf789afd530af2a25f353da36b157"/><file name="system.xml" hash="2bc8f10143f207e0e0653385ea97d288"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Kodecrm_all.xml" hash="095e4281dc0000e388213a1bce27634f"/></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
 </package>
