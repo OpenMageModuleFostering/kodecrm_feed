@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Kodecrm_Feed",
+    "name": "OpenMageModuleFostering\/Kodecrm_Feed",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "This package will create feed required for Kodecrm (www.kodecrm.com).",
     "authors": [
-    {
-        "name": "Kodeplay",
-        "email": "info@kodeplay.com"
-    }
-],
+        {
+            "name": "Kodeplay",
+            "email": "info@kodeplay.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
